@@ -853,3 +853,13 @@ address {
   border-radius: 50%;
   background-color: var(--background-white-color);
 }
+
+.icon-close {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  left: 5px;
+  bottom: 5px;
+  width: 18px;
+  height: 18px;
+}
